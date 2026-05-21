@@ -1,0 +1,6 @@
+{
+  "name": "TableGenius",
+  "description": "생성형 AI 기반 맞춤형 대학 시간표 추천 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
